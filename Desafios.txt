@@ -1,0 +1,4 @@
+01-
+top - conseguir logo - V
+top top - mudar o botão de download quando passar o mouse - V
+top top top - publicar o site no github pages - V mais ou menos
